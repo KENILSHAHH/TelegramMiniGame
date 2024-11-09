@@ -1,1 +1,1 @@
-export const RPC = "https://bsc-testnet-rpc.publicnode.com";
+export const RPC = "https://opbnb-testnet-rpc.publicnode.com";

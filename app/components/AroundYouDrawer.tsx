@@ -3,7 +3,7 @@ import { useDynamicContext } from "../../lib/dynamic";
 import { writeContract } from "viem/actions";
 import { addresses } from "@/contracts/addresses";
 import { GameAbi } from "@/contracts/abi/Game";
-import { bscTestnet } from "viem/chains";
+import { opBNBTestnet } from "viem/chains";
 
 interface Item {
   id: number;
@@ -92,7 +92,7 @@ const AroundYouDrawer: React.FC<AroundYouDrawerProps> = ({
         address: addresses.GAME,
         abi: GameAbi,
         functionName: "fight",
-        chain: bscTestnet,
+        chain: opBNBTestnet,
         account: address,
       });
       triggerFight()
@@ -102,7 +102,7 @@ const AroundYouDrawer: React.FC<AroundYouDrawerProps> = ({
         address: addresses.GAME,
         abi: GameAbi,
         functionName: "harvest",
-        chain: bscTestnet,
+        chain: opBNBTestnet,
         account: address,
       });
       triggerHarvest()
