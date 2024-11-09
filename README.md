@@ -31,3 +31,6 @@
 ### Governance
 - Staking also provides players with **voting power**. This voting power is used during random in-game events where community decisions must be made.
 - The governance system mirrors real-world DAOs, requiring players to persuade or strategize with other community members to vote in favor of decisions that benefit their faction’s direction.
+
+## Contracts
+(Deployed Contract on BNB Testnet)[https://testnet.bscscan.com/address/0x8E24bFB1D6D1F6BB0aFaaD2ba5c3359c1709831E]
