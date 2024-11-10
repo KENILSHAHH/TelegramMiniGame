@@ -4,6 +4,9 @@
 
 **Silent Wars** is a fully on-chain game designed to explore the dynamics of censorship resistance, regulatory compliance, and speculative narratives within the cryptocurrency ecosystem. By engaging in on-chain governance, players can influence the direction of the game and experience the complexities of real-world DAO and community governance.
 
+## Demo
+- [Demo](https://telegram-mini-game-fhga.vercel.app/)
+
 ## Why Silent Wars?
 
 1. **Censorship Resistance**: In the current crypto landscape, censorship resistance is crucial. The game is inspired by the challenges faced by crypto coins like Bitcoin and Ethereum, providing players with a deep understanding of the importance of maintaining a censorship-resistant environment.
