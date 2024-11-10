@@ -38,6 +38,9 @@
 ## Contracts
 [Address](https://opbnb-testnet.bscscan.com/address/0x1b77050478a7E382CBd4f54a30F015505A133dE1)
 
+## Analytics
+- You can see all the analytics of the player, the resources, the monsters, the energy levels in the game.
+
 # Tech Stack
 
 This project uses reactJS and PhaserJS (game animations) for the frontend and can be accessed from Telegram mini-app or browsers. Login is done with Dynamic. We have also integrated MACI voting mechanics within the game. For the smart contracts, we have used remix for the multi chain deployment. Players can either stake or use World ID for ensuring a fairer voting.
